@@ -1,0 +1,11 @@
+customer_id,age,race,job,marital_status,education,casa_balance,creditcard,car_loan,personal_loan,housing_loan
+L1001,46,chinese,admin.,married,secondary,454,1,0,0,0
+L1002,32,chinese,admin.,married,secondary,179,1,1,0,1
+L1003,56,bumiputra,technician,married,secondary,661,0,1,1,0
+L1004,33,bumiputra,services,married,secondary,89,1,0,1,1
+L1005,33,chinese,admin.,married,tertiary,102,0,0,1,0
+L1006,32,chinese,management,divorced,secondary,138,1,0,0,1
+L1007,41,bumiputra,management,married,tertiary,622,0,0,0,0
+L1008,31,chinese,retired,divorced,secondary,10,1,0,0,1
+L1009,30,chinese,technician,married,secondary,251,1,0,1,0
+L1010,34,chinese,services,single,secondary,104,1,1,1,1
